@@ -1,4 +1,4 @@
-# importing packages
+# importing necessary packages
 
 import numpy as np
 import argparse
